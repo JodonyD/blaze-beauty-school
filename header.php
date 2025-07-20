@@ -2,6 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="description" content="Blaze Beauty School in Clarendon offers certified cosmetology courses. Enroll today to begin your beauty career.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="ON66IO53_BsKqc90tGnqnr2Xo-MIlPJZNZASXCEa3Oo" />
+    <link rel="icon" href="images/blazelogo.png" type="image/png">
     <title>Blaze Beauty School</title>
     <link rel="stylesheet" href="style.css">
 </head>
